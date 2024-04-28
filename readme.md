@@ -38,7 +38,6 @@ EMAIL_PORT=MailtrapHost
 EMAIL_FROM=YourEmail@gmail.com
 
 STRIPE_SECRET_KEY=YourStripeSecretKey
-MAPBOX_ACCESS_TOKEN=MapboxAccessToken
 ```
 
 
