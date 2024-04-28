@@ -68,4 +68,5 @@ MAPBOX_ACCESS_TOKEN=MapboxAccessToken
 - Modified at April 27, 2024
   - Reformat using .readme syntax for better demonstration purpose.
   - Add the link to the web page run on the personal server.
-  
+- Modified at April 28, 2024
+  - Deployment and fix some bugs
