@@ -19,6 +19,14 @@ The config.env file is not uploaded to protect sensitive data. To deploy the app
 
 [https://natours.zhang-yang.com/](https://natours.zhang-yang.com/)
 
+>[!TIPS]
+>
+> Use the following account and password to log in
+>
+> email: admin@gmail.com
+>
+> password: pass1234
+
 
 #### Example of the config.env
 ```
