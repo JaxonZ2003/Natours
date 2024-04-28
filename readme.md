@@ -5,6 +5,7 @@
 - Developer: Jaxon Zhang
 - Start building at January 2024
 - Finished at April 2024
+- [Live Demo Here](https://natours.zhang-yang.com/)
 
 ## Description
 
@@ -15,6 +16,8 @@ The project is for **LEARNING PURPOSE** only and is built by following steps alo
 ## How to Use?
 
 The config.env file is not uploaded to protect sensitive data. To deploy the application on your own system, you have to create a new config files and set the following environment variables. A link to the web that is run on a personal server is attached for demonstration.
+
+[https://natours.zhang-yang.com/](https://natours.zhang-yang.com/)
 
 
 #### Example of the config.env
