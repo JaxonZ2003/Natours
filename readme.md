@@ -19,7 +19,7 @@ The config.env file is not uploaded to protect sensitive data. To deploy the app
 
 [https://natours.zhang-yang.com/](https://natours.zhang-yang.com/)
 
->[!TIPS]
+>[!TIP]
 >
 > Use the following account and password to log in
 >
