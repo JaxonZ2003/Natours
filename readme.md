@@ -14,11 +14,11 @@ This is a complete web development project that is built using modern technologi
 
 The project is for **LEARNING PURPOSE** only and is built by following steps along with an online course, taught by _Jonas Schemedtmann_ on [Udemy](https://www.udemy.com/). My future plan is to keep learning more techonologies, specially React, HTML, and CSS
 
-- ✅ [x] HTML
-- ✅ [x] CSS, Taiwind CSS
-- ✅ [x] React
-- ⭕️ [ ] Next.js
-- ⭕️ [ ] Vue
+- [x] ✅ HTML
+- [x] ✅ CSS, Taiwind CSS
+- [x] ⭕️ React
+- [ ] ⭕️ Next.js
+- [ ] ⭕️ Vue
 
 ## How to Use?
 
