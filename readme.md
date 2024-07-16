@@ -16,7 +16,7 @@ The project is for **LEARNING PURPOSE** only and is built by following steps alo
 
 - [x] ✅ HTML
 - [x] ✅ CSS, Taiwind CSS
-- [x] ⭕️ React
+- [x] ✅ React
 - [ ] ⭕️ Next.js
 - [ ] ⭕️ Vue
 
