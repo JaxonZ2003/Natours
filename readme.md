@@ -5,13 +5,20 @@
 - Developer: Jaxon Zhang
 - Start building at January 2024
 - Finished at April 2024
-- [Live Demo Here](https://natours.zhang-yang.com/)
+- [Natours: Live Demo Here](https://natours.zhang-yang.com/)
+- [Colorblinder: New Ongoing Project]()
 
 ## Description
 
 This is a complete web development project that is built using modern technologies, including **_Node.js, express, MongoDB_**, and more. This project is for demonstration only and may be modified for personal preference in future, **but will NEVER be released in production**.
 
-The project is for **LEARNING PURPOSE** only and is built by following steps along with an online course, taught by _Jonas Schemedtmann_ on [Udemy](https://www.udemy.com/). My future plan is to keep learning more techonologies, specially React, HTML, and CSS.
+The project is for **LEARNING PURPOSE** only and is built by following steps along with an online course, taught by _Jonas Schemedtmann_ on [Udemy](https://www.udemy.com/). My future plan is to keep learning more techonologies, specially React, HTML, and CSS
+
+- ✅ [x] HTML
+- ✅ [x] CSS, Taiwind CSS
+- ✅ [x] React
+- ⭕️ [ ] Next.js
+- ⭕️ [ ] Vue
 
 ## How to Use?
 
@@ -77,3 +84,6 @@ STRIPE_SECRET_KEY=YourStripeSecretKey
   - Add the link to the web page run on the personal server.
 - Modified at April 28, 2024
   - Deployment and fix some bugs
+- Modified at July 16, 2024
+  - Update recent progress in web development
+  - Add link to the git directory of the new project
