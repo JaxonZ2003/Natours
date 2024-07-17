@@ -6,7 +6,7 @@
 - Start building at January 2024
 - Finished at April 2024
 - [Natours: Live Demo Here](https://natours.zhang-yang.com/)
-- [Colorblinder: New Ongoing Project](https://github.com/Colorblinders/home-front)
+- [Colorblinder: New Ongoing Project](https://colorblinder.com)
 
 ## Description
 
